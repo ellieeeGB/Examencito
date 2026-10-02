@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos temporales
+*.tmp
+
+# Archivos del sistema
+.DS_Store
