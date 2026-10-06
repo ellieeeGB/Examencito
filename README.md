@@ -1,19 +1,19 @@
 # EC. Primer Parcial — Proyecto Práctico HPC
 
-**Asignatura:** Cómputo de Alto Rendimiento<br>
-**Docente:** Javier Moya<br>
-**Entrega:** Repositorio de GitHub<br>
-**Modalidad:** Trabajo colaborativo<br>
-**Metodología:** Git, GitHub y GitFlow
+**Asignatura:** Cómputo de Alto Rendimiento  
+**Docente:** Javier Moya  
+**Entrega:** Repositorio de GitHub  
+**Modalidad:** Trabajo colaborativo  
+**Metodología:** Git, GitHub y GitFlow  
 
 ---
 
 ## Integrantes
 
-- **Integrante 1:** ______________________________
-- **Integrante 2:** ______________________________
-- **Integrante 3:** ______________________________
-- **Integrante 4:** ______________________________
+- **Integrante 1:** Elliot González
+- **Integrante 2:** Diego Almaraz
+- **Integrante 3:** Patricia Botello
+- **Integrante 4:** Ignacio Rodríguez
 
 ---
 
@@ -174,12 +174,15 @@ Examencito/
 │   ├── 01_secuencial.ipynb
 │   ├── 02_paralelo.ipynb
 │   ├── 03_experimentos.ipynb
-│   └── 03_analisis_graficas.ipynb   # se integra desde feature/graficas
+│   └── 04_graficas.ipynb
 │
 ├── resultados/
 │   ├── secuencial.csv
 │   ├── paralelo.csv
-│   └── analisis.csv
+│   ├── analisis.csv
+│   ├── tiempo_workers.png
+│   ├── speedup.png
+│   └── eficiencia.png
 │
 ├── README.md
 ├── requirements.txt
@@ -296,7 +299,7 @@ Antes del merge final hacia `main` se deberá responder:
 [x] Promedios
 [x] Speedup
 [x] Eficiencia
-[ ] Integrar gráficas
+[x] Integrar gráficas
 [ ] Completar análisis final
 [ ] Revisar Pull Requests
 [ ] Merge de feature/* hacia develop
