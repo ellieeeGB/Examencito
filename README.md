@@ -10,11 +10,11 @@
 
 ## Integrantes
 
-- **Integrante 1:** ______________________________
-- **Integrante 2:** ______________________________
-- **Integrante 3:** ______________________________
-- **Integrante 4:** ______________________________
-
+- **Integrante 1:** Elliot González
+- **Integrante 2:** Diego Almaraz
+- **Integrante 3:** Patricia Botello
+- **Integrante 4:** Ignacio Rodríguez
+  
 ---
 
 # 1. Objetivo
